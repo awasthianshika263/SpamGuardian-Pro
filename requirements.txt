@@ -1,0 +1,14 @@
+flask
+pandas
+scikit-learn
+joblib
+nltk
+python-dotenv
+imaplib2
+google-auth
+google-auth-oauthlib
+google-api-python-client
+tldextract
+
+
+

@@ -1,0 +1,87 @@
+{
+  "spam": [
+    "# MONEY & WINNING",
+    "free money", "win money", "claim prize", "cash prize", "instant win",
+    "won the lottery", "selected winner", "congratulations you've won",
+    "you are a winner", "prize money", "jackpot winner", "mega millions",
+    "lucky winner", "grand prize", "first prize", "second prize",
+
+    "# DIRECT MONEY BEGGING & SCAM",
+    "give me money", "send me money", "lend me money", "need money urgently",
+    "help me financially", "transfer money", "send cash", "western union",
+
+    "# FINANCIAL & WINNING",
+    "free money", "win money", "claim prize", "cash prize", "instant win", "you won the lottery",
+    "selected winner", "congratulations you've won", "you are a winner", "prize money",
+    "jackpot", "mega millions", "lucky winner", "grand prize", "bitcoin giveaway", "crypto airdrop",
+    "double your money", "get rich quick", "make money fast", "earn extra cash",
+
+    "# URGENCY & SCARCITY",
+    "limited offer", "limited time", "last chance", "act now", "don't miss",
+    "ends soon", "final notice", "urgent action required", "immediate response",
+    "24 hours only", "48 hours left", "today only", "one time offer",
+    "exclusive deal", "special promotion", "flash sale", "clearance sale",
+
+    "# CALL TO ACTION",
+    "click here", "click below", "click to claim", "click now", "tap here",
+    "visit site", "go to link", "open attachment", "download now", "verify now",
+    "update account", "confirm details", "secure your account", "account suspended",
+    "payment failed", "card declined", "verify identity", "security alert",
+    "your account is locked", "password reset", "update payment", "bank alert",
+
+    "# GUARANTEES & PROMISES",
+    "guaranteed win", "100% free", "no cost", "risk free", "money back",
+    "no obligation", "completely free", "zero risk", "proven results",
+    "works instantly", "get rich quick", "make money fast",
+
+    "# SUSPICIOUS SENDERS",
+    "from: paypal", "from: amazon", "from: bank", "account suspended",
+    "payment failed", "card declined", "verify identity", "login required",
+    "unusual activity", "security alert", "your account is locked",
+
+    "# INVESTMENT & CRYPTO",
+    "bitcoin giveaway", "crypto airdrop", "invest now", "double your money",
+    "high returns", "passive income", "financial freedom", "retire early",
+
+    "# HEALTH & MIRACLE",
+    "miracle cure", "lose weight fast", "grow taller", "hair regrowth",
+    "natural remedy", "secret formula", "doctors hate this", "bitcoin giveaway", 
+    "crypto airdrop", "double your money", "high returns",
+
+    "# FAKE JOBS",
+    "work from home", "earn $500/day", "no experience needed", "easy job",
+    "part time income", "online survey", "get paid to click","miracle cure", 
+    "lose weight fast", "work from home", "earn $500/day" 
+  ],
+
+  "safe": [
+    "# PERSONAL MEETINGS",
+    "meet me", "see you", "catch up", "let's meet", "coffee?", "lunch?",
+    "dinner plans", "movie tonight", "call me", "pick up", "on my way",
+    "running late", "be there soon", "stuck in traffic", "almost there",
+    "waiting for you", "where are you", "are you free",
+
+    "# FAMILY & FRIENDS",
+    "home safe", "reached home", "reached office", "back from work",
+    "mom called", "dad says", "brother coming", "sister's birthday",
+    "family dinner", "bring water", "bring food", "bring charger",
+    "forgot keys", "left stove on", "dog walked", "plants watered",
+
+    "# WORK & OFFICE",
+    "urgent meeting", "team meeting", "standup at 10", "client call",
+    "deadline tomorrow", "submit report", "send ppt", "share link",
+    "zoom link", "teams meeting", "google meet", "office at 9",
+    "lunch break", "tea break", "free time", "available now",
+
+    "# CASUAL",
+    "how are you", "what's up", "long time", "miss you", "take care",
+    "get well soon", "happy birthday", "congratulations", "well done",
+    "good job", "great work", "thank you", "thanks", "sorry",
+    "my bad", "oops", "haha", "lol", "rofl", "brb", "gtg",
+
+    "# TRAVEL & LOGISTICS",
+    "flight booked", "train ticket", "bus leaving", "cab booked",
+    "uber coming", "ola arrived", "drop location", "pick up point",
+    "sharing location", "send address", "near mall", "opposite station"
+  ]
+}
