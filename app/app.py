@@ -209,4 +209,5 @@ if __name__ == "__main__":
     print("SpamGuardian Pro → http://127.0.0.1:5000")
     t = threading.Thread(target=background_job, daemon=True)
     t.start()
-    app.run(host="0.0.0.0", port=5000, debug=False, use_reloader=False)
+    # app.run(host="0.0.0.0", port=5000, debug=False, use_reloader=False)
+    app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 5000)), debug=False, use_reloader=False)
